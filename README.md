@@ -115,8 +115,11 @@ We repeat the experiment for different sample sizes (50, 100, 200, 400) and calc
 The confidence set is defined as:
 
 $$
-C_n := \left\{ \beta \in \mathbb{R}^d \mid (\beta - \beta_{bn})^T \Sigma_n^{-1} (\beta - \beta_{bn}) \leq \chi^2_{d,1-\alpha} \right\}
+C_n := \\{ \beta \in \mathbb{R}^d \mid (\beta - \beta_{bn})^T \Sigma_n^{-1} (\beta - \beta_{bn}) \leq \chi^2_{d,1-\alpha} \\}
 $$
+
+
+
 
 
 where $\Sigma_n$ is the estimated covariance, $\beta_{bn}$ is the estimated parameter, and $\chi^2_{d,1-\alpha}$ is the quantile from the chi-squared distribution.
