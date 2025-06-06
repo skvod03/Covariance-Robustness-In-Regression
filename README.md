@@ -118,17 +118,7 @@ $$
 C_n := \\{ \beta \in \mathbb{R}^d \mid (\beta - \beta_{bn})^T \Sigma_n^{-1} (\beta - \beta_{bn}) \leq \chi^2_{d,1-\alpha} \\}
 $$
 
-
-
-
-
 where $\Sigma_n$ is the estimated covariance, $\beta_{bn}$ is the estimated parameter, and $\chi^2_{d,1-\alpha}$ is the quantile from the chi-squared distribution.
-
-## Plot Filenames:
-
-* `Coverage_Probability_vs_Sample_Size_in_Linear_Regression.png`
-* `Coverage_Probability_vs_Sample_Size_in_Faulty_Linear_Regression.png`
-* `Coverage_Probability_vs_Sample_Size_in_Logistic_Regression.png`
 
 ## Insights and Discussion:
 
