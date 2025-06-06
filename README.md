@@ -118,6 +118,7 @@ $$
 C_n := \left\{ \beta \in \mathbb{R}^d \mid (\beta - \beta_{bn})^T \Sigma_n^{-1} (\beta - \beta_{bn}) \leq \chi^2_{d,1-\alpha} \right\}
 $$
 
+
 where $\Sigma_n$ is the estimated covariance, $\beta_{bn}$ is the estimated parameter, and $\chi^2_{d,1-\alpha}$ is the quantile from the chi-squared distribution.
 
 ## Plot Filenames:
