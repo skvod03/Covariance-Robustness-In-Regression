@@ -1,10 +1,8 @@
 ![LinReg_plot](plots/Coverage_Probability_vs._Sample_Size_in_Linear_Regression.png)
-![LogReg_plot](plots/Coverage_Probability_vs_Sample_Size_in_Logistic_Regression.png)
+![LogReg_plot](plots/Coverage_Probability_vs._Sample_Size_in_Logistic_Regression.png)
 ![FaultyLinReg_plot](plots/Coverage_Probability_vs._Sample_Size_in_Faulty_Linear_Regression.png)
 
 # Covariance Robustness in Regression
-
-
 
 This project compares three parameter inference methods used for parameter estimation in **Linear Regression**, **Faulty Linear Regression**, and **Logistic Regression**. We implement and evaluate **Fisher Covariance**, **Sandwich Estimator**, and **Bootstrap Resampling** techniques, applying them to three different regression models. This work investigates how these methods perform across different sample sizes and models.
 
