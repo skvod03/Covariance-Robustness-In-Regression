@@ -1,6 +1,6 @@
-[LinReg_plot](plots/Coverage_Probability_vs_Sample_Size_in_Linear_Regression.png)
+[LinReg_plot](Coverage_Probability_vs._Sample_Size_in_Faulty_Linear_Regression.png)
 [LogReg_plot](plots/Coverage_Probability_vs_Sample_Size_in_Logistic_Regression.png)
-[FaultyLinReg_plot](plots/Coverage_Probability_vs_Sample_Size_in_Faulty_Linear_Regression.png)
+[FaultyLinReg_plot](plots/Coverage_Probability_vs._Sample_Size_in_Faulty_Linear_Regression.png)
 
 # Covariance Robustness in Regression
 
